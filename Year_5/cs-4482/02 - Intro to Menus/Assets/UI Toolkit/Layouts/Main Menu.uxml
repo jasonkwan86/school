@@ -1,0 +1,9 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/Styles/Main%20Menu%20Buttons.uss?fileID=7433441132597879392&amp;guid=95f9fb9117be9ac47aa5279cc3f79fea&amp;type=3#Main Menu Buttons" />
+    <ui:VisualElement style="flex-grow: 1; background-color: rgb(132, 132, 132); -unity-text-align: upper-center;">
+        <ui:Label tabindex="-1" text="Our Sample Main Menu" parse-escape-sequences="true" display-tooltip-when-elided="true" name="TitleText" style="-unity-text-align: upper-center; font-size: 27%; padding-bottom: 105px; flex-basis: 20%; align-self: center; width: 60%; margin-right: 20%; margin-left: 20%; height: 10%; padding-right: 0; padding-left: 0; padding-top: 0;" />
+        <ui:Button text="Play" parse-escape-sequences="true" display-tooltip-when-elided="true" name="PlayButton" class="button" style="-unity-background-image-tint-color: rgb(255, 255, 255);" />
+        <ui:Button text="Settings" parse-escape-sequences="true" display-tooltip-when-elided="true" name="SettingsButton" class="button" />
+        <ui:Button text="Quit" parse-escape-sequences="true" display-tooltip-when-elided="true" name="QuitButton" class="button" />
+    </ui:VisualElement>
+</ui:UXML>

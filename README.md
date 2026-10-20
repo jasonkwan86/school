@@ -55,3 +55,32 @@ Final Submission        - 88
 ### 3340 - Analysis of Algorithms I
 
 #### Final Grade: 86
+
+# Year 5
+### 3377B - Software Project Management - No projects, not in repo
+
+#### Final Grade: 85
+
+### 4483B - Game Design - No projects, not in repo
+
+#### Final Grade: 90
+
+### 4417B - Unstructured Data
+
+#### Final Grade: 93
+
+### 4472A - Specification, Testing and Quality
+
+#### Final Grade: 96
+
+### 4480Y - Game Development Project
+
+#### Final Grade: 95
+
+### 4481A - Image Compression
+
+#### Final Grade: 90
+
+### 4482A - Game Programming
+
+#### Final Grade: 100

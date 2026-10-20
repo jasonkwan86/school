@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6f499a1b51e9ac42a1873d504b40c8a, type: 3}
+  m_Name: French
+  m_EditorClassIdentifier: 
+  translationDictionary:
+    translations:
+    - key: continue
+      translationValue: Continuer
+    - key: select_language
+      translationValue: "S\xE9lectionnez une langue"
+    - key: its_me_homer
+      translationValue: C'est moi, Homer!
+    - key: im_leaving
+      translationValue: Je pars
+    - key: see_you
+      translationValue: "\xC0 bient\xF4t"
+    - key: name_bart
+      translationValue: C'est moi, Bart!
+    - key: hey_homer
+      translationValue: Salut Homer.
+    - key: hey_bart
+      translationValue: Salut Bart.
+    - key: repeat
+      translationValue: "Pouvez-vous r\xE9p\xE9ter cela ?"

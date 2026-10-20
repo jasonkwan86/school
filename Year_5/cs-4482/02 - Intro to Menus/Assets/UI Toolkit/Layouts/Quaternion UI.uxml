@@ -1,0 +1,10 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/Styles/Quaternion%20Buttons.uss?fileID=7433441132597879392&amp;guid=c58d5a46e51b5be43bf60112f7e3a296&amp;type=3#Quaternion Buttons" />
+    <ui:VisualElement style="flex-grow: 1; justify-content: flex-end; background-color: rgba(255, 255, 255, 0);">
+        <ui:VisualElement name="Container" style="flex-basis: 20%; align-items: center; justify-content: space-around; padding-left: 15%; background-color: rgba(0, 0, 0, 0.8); border-top-width: 5px; flex-direction: row; padding-right: 15%; border-left-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-bottom-color: rgb(0, 0, 0);">
+            <ui:Toggle label="X-Axis" name="XToggle" class="toggle" style="color: rgb(255, 255, 255); justify-content: flex-end; flex-direction: row-reverse;" />
+            <ui:Toggle label="Y-Axis" name="YToggle" class="toggle" style="flex-direction: row-reverse; color: rgba(255, 255, 255, 255);" />
+            <ui:Toggle label="Z-Axis" name="ZToggle" class="toggle" style="flex-direction: row-reverse;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

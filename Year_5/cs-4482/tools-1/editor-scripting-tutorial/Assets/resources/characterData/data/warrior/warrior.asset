@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9409d64e52d499648b9c050de55b8f50, type: 3}
+  m_Name: warrior
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1878505491068924035, guid: 20cf2b0e130be6346b9460be0400752f, type: 3}
+  maxHealth: 0
+  maxEnergy: 0
+  critChance: 21
+  power: 37.2
+  name: warrior
+  color: {r: 0.6603774, g: 0, b: 0, a: 0}
+  classType: 0
+  weaponType: 2

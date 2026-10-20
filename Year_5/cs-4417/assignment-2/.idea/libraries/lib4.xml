@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lucene-8.7.0/spatial-extras/lib/slf4j-api-1.7.24.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lucene-8.7.0/spatial-extras/lib/s2-geometry-library-java-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lucene-8.7.0/spatial-extras/lib/spatial4j-0.7-tests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lucene-8.7.0/spatial-extras/lib/spatial4j-0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lucene-8.7.0/spatial-extras/lib/jts-core-1.15.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

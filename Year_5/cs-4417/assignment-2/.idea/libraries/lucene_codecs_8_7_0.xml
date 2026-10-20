@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lucene-codecs-8.7.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lucene-8.7.0/codecs/lucene-codecs-8.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

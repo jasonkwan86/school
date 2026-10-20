@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6f499a1b51e9ac42a1873d504b40c8a, type: 3}
+  m_Name: English
+  m_EditorClassIdentifier: 
+  translationDictionary:
+    translations:
+    - key: continue
+      translationValue: Continue
+    - key: select_language
+      translationValue: Select a language
+    - key: its_me_homer
+      translationValue: It's me, Homer!
+    - key: im_leaving
+      translationValue: I'm leaving
+    - key: see_you
+      translationValue: See you!
+    - key: name_bart
+      translationValue: My name's Bart!
+    - key: hey_homer
+      translationValue: Hey Homer.
+    - key: hey_bart
+      translationValue: Hey Bart
+    - key: repeat
+      translationValue: Can you repeat that?

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lucene-analyzers-nori-8.7.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lucene-8.7.0/analysis/nori/lucene-analyzers-nori-8.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

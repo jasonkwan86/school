@@ -1,0 +1,10 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/Styles/Main%20Menu%20Buttons.uss?fileID=7433441132597879392&amp;guid=95f9fb9117be9ac47aa5279cc3f79fea&amp;type=3#Main Menu Buttons" />
+    <ui:VisualElement style="flex-grow: 1; background-color: rgba(0, 0, 0, 0.69); flex-direction: column; align-items: center; justify-content: center;">
+        <ui:Label tabindex="-1" text="Paused&#10;" parse-escape-sequences="true" display-tooltip-when-elided="true" name="TitleText" style="-unity-text-align: upper-center; font-size: 27%; padding-bottom: 105px; flex-basis: 20%; color: rgb(255, 255, 255);" />
+        <ui:Button text="Continue" parse-escape-sequences="true" display-tooltip-when-elided="true" name="PlayButton" class="button" style="-unity-background-image-tint-color: rgb(255, 255, 255);" />
+        <ui:Button text="Inventory" parse-escape-sequences="true" display-tooltip-when-elided="true" name="InventoryButton" class="button" style="-unity-background-image-tint-color: rgb(255, 255, 255);" />
+        <ui:Button text="Settings" parse-escape-sequences="true" display-tooltip-when-elided="true" name="SettingsButton" class="button" />
+        <ui:Button text="Quit" parse-escape-sequences="true" display-tooltip-when-elided="true" name="QuitButton" class="button" />
+    </ui:VisualElement>
+</ui:UXML>

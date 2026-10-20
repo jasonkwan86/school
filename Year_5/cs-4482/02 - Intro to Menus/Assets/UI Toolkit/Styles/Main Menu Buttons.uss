@@ -1,0 +1,9 @@
+.button {
+    margin-bottom: 5%;
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: rgb(255, 208, 78);
+    width: 40%;
+    flex-direction: column;
+    height: 10%;
+}

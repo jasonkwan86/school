@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lucene-grouping-8.7.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lucene-8.7.0/grouping/lucene-grouping-8.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,2 @@
+C:\Users\ssoni\Desktop\CSProjects\SchoolNew\Year_5\cs-4482\tools-2\obj\Debug\Assembly-CSharp-Editor.csproj.AssemblyReference.cache
+C:\Users\ssoni\Desktop\CSProjects\SchoolNew\Year_5\cs-4482\tools-2\obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache

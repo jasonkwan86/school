@@ -1,0 +1,7 @@
+1.
+a) The Minilm output relates to the query much better in my opinion; it looks like Minilm uses semantic matching while Glove results look more like keyword matching.
+This is probably because Minilm makes contextualized embeddings where each word changes depending on the words surrounding it, unlike Glove doesn't as it uses static embeddings.
+b) The Minilm outputs are much more consistent. Every result looks like a job posting while only some of the Glove results are work postings, and whose results vary in topic.
+
+2.
+I believe that Twitter currently uses semantic search for its search algorithm. I believe this because my search results are generally pretty accurate to the semantic context of my query (i.e. my search results mainly include posts of people in need of/looking for work, which seem to be prioritized compared to posts just including the keywords of my query.

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hppc-0.8.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lucene-8.7.0/facet/lib/hppc-0.8.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

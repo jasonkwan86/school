@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lucene-8.7.0/benchmark/lib/icu4j-62.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lucene-8.7.0/benchmark/lib/spatial4j-0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lucene-8.7.0/benchmark/lib/commons-compress-1.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lucene-8.7.0/benchmark/lib/nekohtml-1.9.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lucene-8.7.0/benchmark/lib/xercesImpl-2.12.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
